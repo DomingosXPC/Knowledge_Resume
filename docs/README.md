@@ -23,3 +23,7 @@ Created knowledge resume with advanced CSS, transition and transformation efects
 ![](./mobile2.png)
 
 ![](./mobile3.png)
+
+# Technologies
+
+HTML, CSS and Javascript.
