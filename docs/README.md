@@ -6,18 +6,20 @@ Created knowledge resume with advanced CSS, transition and transformationefects,
 
 ## DESIGN (screenshots)
 
-![](./Screenshot (47).png)
+![](./screen1.png)
 
-![](./Screenshot (48).png)
+![](./screen2.png)
 
-![](./Screenshot (49).png)
+![](./screen3.png)
 
-![](./Screenshot (50).png)
+![](./screen4.png)
 
-![](./Screenshot (51).png)
+![](./screen5.png)
 
-![](./Screenshot (52).png)
+## Mobile Responsiveness
 
-![](./Screenshot (53).png)
+![](./mobile1.png)
 
-![](./Screenshot (54).png)
+![](./mobile2.png)
+
+![](./mobile3.png)
