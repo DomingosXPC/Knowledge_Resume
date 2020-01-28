@@ -2,7 +2,7 @@
 
 ## OBJECTIVE
 
-Created knowledge resume with advanced CSS, transition and transformation efects, and javascript.
+Created knowledge resume with advanced CSS, transition and transformation efects, and javascript (boxes appear as page is scrolled)
 
 ## DESIGN (screenshots)
 
